@@ -17,15 +17,21 @@ minor fixes
 
 On Nautilus:
 
-![Captura realizada el 2017-09-22 17.55.25](/home/rho/SparkleShare/arcapitan-loki-gtk/Captura realizada el 2017-09-22 17.55.25.png)
+![Captura realizada el 2017-09-22 17.55.25](https://raw.githubusercontent.com/rhoconlinux/arcapitan-loki-gtk/master/shot-arcapitan0.png)
 
-![Captura realizada el 2017-09-22 17.54.20](/home/rho/SparkleShare/arcapitan-loki-gtk/Captura realizada el 2017-09-22 17.54.20.png)
+On the tweak tool.
 
-On the Tweak Tool. 
+![Captura realizada el 2017-09-22 17.55.25](https://raw.githubusercontent.com/rhoconlinux/arcapitan-loki-gtk/master/shot-arcapitan1.png)
+
+
 
 
 
 Cheers!
+
+
+
+Licence: free. :)
 
 
 
